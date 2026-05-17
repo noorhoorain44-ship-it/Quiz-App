@@ -1,0 +1,4 @@
+# QuizApp v2.0
+# No external dependencies required!
+# Uses Python Standard Library only
+# Python 3.10+ recommended for match-case support
